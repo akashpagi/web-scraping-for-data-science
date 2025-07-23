@@ -1,0 +1,45 @@
+# folder
+web-scraping-course-master/
+SCRAPY FRAMEWORK/
+CONDA/
+
+
+# Sub folders
+S7.Selenium/edgedriver_win64
+S7.Selenium/chromedriver-win64
+
+
+
+
+
+# Ignore Excel files
+*.xlsx
+*.xls
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+
+
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+*.zip
+
+# Environment variables
+.env
