@@ -7,6 +7,8 @@ CONDA/
 # Sub folders
 S7.Selenium/edgedriver_win64
 S7.Selenium/chromedriver-win64
+# Ignore all contents inside the Tesseract-OCR folder
+S8.Working with Captcha/Tesseract-OCR/*
 
 
 
